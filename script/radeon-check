@@ -1,0 +1,8 @@
+#!/bin/bash
+
+/export/opt/src/sample-radeon/tweak/monitor_gpu/bin/adl_qa 0 |grep Level
+
+
+
+
+
